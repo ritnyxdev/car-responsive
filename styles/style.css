@@ -17,4 +17,5 @@
 body {
   font-family: "Exo regular";
   color: var(--text-main-color);
+  background-color: var(--bg-main-color);
 }
